@@ -4,9 +4,9 @@ Ecommerce MERN stack app with REDUX
 
 ## Features
 
--Responsywny nowoczesny design
--Możliwość rejestracji użytkownika - zapewnienie bezpieczeństwa dzięki wykorzystaniu JWT token oraz szyfrowania haseł przechowywanych w bazie danych
--W pełni funkcjonalny koszyk (zwiększanie / zmiejszanie ilości produktów w koszyku)
--Profil użytkownika - możliwość zmiany danych podaych podczas rejestracji
--Przedstawienie dokonanych transakcji na konie poszczególnych użytkowników
--Automatyczna kontrola ilości dostępnych produktów
+- Responsywny nowoczesny design
+- Możliwość rejestracji użytkownika - zapewnienie bezpieczeństwa dzięki wykorzystaniu JWT token oraz szyfrowania haseł przechowywanych w bazie danych
+- W pełni funkcjonalny koszyk (zwiększanie / zmiejszanie ilości produktów w koszyku)
+- Profil użytkownika - możliwość zmiany danych podaych podczas rejestracji
+- Przedstawienie dokonanych transakcji na konie poszczególnych użytkowników
+- Automatyczna kontrola ilości dostępnych produktów
